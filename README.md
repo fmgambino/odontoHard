@@ -1,4 +1,3 @@
-md = dedent(r"""
 ![Electrónica Gambino](https://electronicagambino.com/wp-content/uploads/elementor/thumbs/cropped-Electronica-Gambino-e1684335474114-q6losum0uq8caxhait9doqxx83gv53yq2d8g8oiv7o.png)
 
 # ELECTRÓNICA GAMBINO
